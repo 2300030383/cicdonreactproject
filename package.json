@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://2300030383.github.io/cicdonreactproject",
+  "homepage": "https://github.com/2300030383/cicdonreactproject.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
